@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<library>
+<location>alex</location>
+<description>library for technical books</description>
+<librrarian>Mr Ahmed</librrarian>
+
+<Books>
+  <Book>
+    <title>Clean Code</title>
+    <Author>Rober C. Martin</Author>
+    <ISBN>A12553</ISBN>
+    <preface>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Impedit, recusandae voluptate? Repellendus voluptates nostrum officia veniam iusto amet tempora quibusdam cumque, possimus id labore provident eligendi in incidunt, accusantium rerum!</preface>
+    <parts>
+      <part>
+        <title>Nameing Conventions</title>
+        <chapters>
+          <chapter>
+            <title>Variables Naming</title>
+            <summary>this chapter give advices to name variables</summary>
+            <sections>
+              <section>
+                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Architecto deleniti neque voluptatibus cupiditate recusandae est soluta explicabo suscipit id optio voluptas, placeat saepe? Mollitia, deleniti! Fugiat magnam fugit aut laudantium!
+              </section>
+              <section>
+                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Expedita maxime iure quidem id repellendus consequatur totam dolor magnam saepe iusto, ullam non vel, temporibus esse! Culpa magnam est veniam natus.
+              </section>
+            </sections>
+          </chapter>
+        </chapters>
+      </part>
+    </parts>
+  </Book>
+</Books>
+
+</library>
