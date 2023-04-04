@@ -1,8 +1,5 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-
+<?xml version="1.0" encoding="UTF-8"?>
 <employees>
-
-
   <employee>
     <name>Ahmed</name>
     <phones>
@@ -19,10 +16,8 @@
     </addresses>
     <email>ahmed@test.com</email>
   </employee>
-
-
   <employee>
-    <name>mohammed</name>
+    <name>asasas</name>
     <phones>
       <phone type="home">01066361455</phone>
     </phones>
@@ -37,7 +32,52 @@
     </addresses>
     <email>ahmed@test.com</email>
   </employee>
-
-  
-
+  <employee>
+    <name>xxxxx</name>
+    <phones>
+      <phone>01066361455</phone>
+    </phones>
+    <addresses>
+      <address>
+        <country>Egypt</country>
+        <city>Alexandria</city>
+        <region>Sidi Beshr</region>
+        <buildingNumber>12</buildingNumber>
+        <street>st 15</street>
+      </address>
+    </addresses>
+    <email>ahmed@test.com</email>
+  </employee>
+  <employee>
+    <name>fake 2</name>
+    <phones>
+      <phone>make</phone>
+    </phones>
+    <addresses>
+      <address>
+        <country>qena</country>
+        <city>aa</city>
+        <region> aa</region>
+        <buildingNumber>  aa</buildingNumber>
+        <street>ddddd</street>
+      </address>
+    </addresses>
+    <email>ahmed@qena.com</email>
+  </employee>
+  <employee>
+    <name>top</name>
+    <phones>
+      <phone>make</phone>
+    </phones>
+    <addresses>
+      <address>
+        <country>qena</country>
+        <city>asas</city>
+        <region>asasa </region>
+        <buildingNumber> asasas</buildingNumber>
+        <street/>
+      </address>
+    </addresses>
+    <email>top@qena.com</email>
+  </employee>
 </employees>
