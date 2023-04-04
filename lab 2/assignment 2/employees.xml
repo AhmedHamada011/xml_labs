@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<employees>
+
+
+  <employee>
+    <name>Ahmed</name>
+    <phones>
+      <phone type="home">01066361455</phone>
+    </phones>
+    <addresses>
+      <address>
+        <country>Egypt</country>
+        <city>Alexandria</city>
+        <region>Sidi Beshr</region>
+        <buildingNumber>12</buildingNumber>
+        <street>st 15</street>
+      </address>
+    </addresses>
+    <email>ahmed@test.com</email>
+  </employee>
+
+
+  <employee>
+    <name>mohammed</name>
+    <phones>
+      <phone type="home">01066361455</phone>
+    </phones>
+    <addresses>
+      <address>
+        <country>Egypt</country>
+        <city>Alexandria</city>
+        <region>Sidi Beshr</region>
+        <buildingNumber>12</buildingNumber>
+        <street>st 15</street>
+      </address>
+    </addresses>
+    <email>ahmed@test.com</email>
+  </employee>
+
+  
+
+</employees>
