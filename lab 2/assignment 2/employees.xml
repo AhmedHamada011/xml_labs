@@ -49,35 +49,35 @@
     <email>ahmed@test.com</email>
   </employee>
   <employee>
-    <name>fake 2</name>
+    <name>xxxxxasasas</name>
     <phones>
-      <phone>make</phone>
+      <phone>01066361455</phone>
     </phones>
     <addresses>
       <address>
-        <country>qena</country>
-        <city>aa</city>
-        <region> aa</region>
-        <buildingNumber>  aa</buildingNumber>
-        <street>ddddd</street>
+        <country>Egypt</country>
+        <city>Alexandria</city>
+        <region>Sidi Beshr</region>
+        <buildingNumber>12</buildingNumber>
+        <street>st 15</street>
       </address>
     </addresses>
-    <email>ahmed@qena.com</email>
+    <email>ahmed@test.com</email>
   </employee>
   <employee>
-    <name>top</name>
+    <name>xxxxxasasasasasas1222</name>
     <phones>
-      <phone>make</phone>
+      <phone>01066361455</phone>
     </phones>
     <addresses>
       <address>
-        <country>qena</country>
-        <city>asas</city>
-        <region>asasa </region>
-        <buildingNumber> asasas</buildingNumber>
-        <street/>
+        <country>Egypt</country>
+        <city>Alexandria</city>
+        <region>Sidi Beshr</region>
+        <buildingNumber>12</buildingNumber>
+        <street>st 15</street>
       </address>
     </addresses>
-    <email>top@qena.com</email>
+    <email>ahmed@test.com</email>
   </employee>
 </employees>

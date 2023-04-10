@@ -4,7 +4,6 @@ session_start();
 
 
 
-
 $dom = new DOMDocument('1.0');
 $filename = 'employees.xml';
 $xmlDocument = file_get_contents($filename);
